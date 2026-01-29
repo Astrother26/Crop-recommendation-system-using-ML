@@ -1,6 +1,6 @@
 # Crop Recommendation System using Machine Learning
 
-![Uploading image.png…]()
+<img width="1818" height="880" alt="image" src="https://github.com/user-attachments/assets/af41f316-ce7d-427f-b2cf-3201d4eb7cbc" />
 
 
 <!-- ![image](https://github.com/user-attachments/assets/d0123a43-7dd0-4d72-99e0-c3a9d0e89379)
@@ -15,7 +15,7 @@ A machine learning-based system that recommends optimal crops based on soil para
 - Recommendation Engine: Suggests best crops and required fertilizers
 - Web Interface: User-friendly Flask web application
 
- ![image](https://github.com/user-attachments/assets/19b9256b-4fd0-446b-b4cb-ba30a64c1599)
+![Uploading image.png…]()
 
 
 
