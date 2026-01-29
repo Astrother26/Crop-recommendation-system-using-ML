@@ -15,7 +15,8 @@ A machine learning-based system that recommends optimal crops based on soil para
 - Recommendation Engine: Suggests best crops and required fertilizers
 - Web Interface: User-friendly Flask web application
 
-![Uploading image.png…]()
+<img width="1817" height="883" alt="image" src="https://github.com/user-attachments/assets/645623b1-c4c3-43f4-9fbf-0f185927afe9" />
+
 
 
 
