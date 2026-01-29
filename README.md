@@ -1,6 +1,7 @@
 # Crop Recommendation System using Machine Learning
 
-![image](https://github.com/user-attachments/assets/595403c4-5461-45d2-a180-be80551e7556)
+![Uploading image.png…]()
+
 
 <!-- ![image](https://github.com/user-attachments/assets/d0123a43-7dd0-4d72-99e0-c3a9d0e89379)
 -->
